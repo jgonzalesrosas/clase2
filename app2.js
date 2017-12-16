@@ -24,4 +24,4 @@ http.createServer(function(req, res){
 	res.end();
 }).listen(puerto);
 
-console.log("EScuchando en el puerto", puerto);
+console.log("EScuchando en el puerto", puerto);https://github.com/jgonzalesrosas/clase2.gi
